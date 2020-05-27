@@ -1,3 +1,6 @@
 [submodule "C-FinalProject"]
 	path = C-FinalProject
 	url = https://github.com/salaird0324/C-FinalProject.git
+[submodule "CreatureKingdom"]
+	path = CreatureKingdom
+	url = https://github.com/salaird0324/CreatureKingdom.git
